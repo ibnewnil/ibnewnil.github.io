@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pr on Lin&#39;s Personal Museum</title>
+    <link>https://ibnewnil.github.io/tags/pr/</link>
+    <description>Recent content in Pr on Lin&#39;s Personal Museum</description>
+    <image>
+      <title>Lin&#39;s Personal Museum</title>
+      <url>https://ibnewnil.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ibnewnil.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://ibnewnil.github.io/tags/pr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Videos 🎬</title>
+      <link>https://ibnewnil.github.io/Videos%20%F0%9F%8E%AC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ibnewnil.github.io/Videos%20%F0%9F%8E%AC/</guid>
+      <description>纪录片 Documentary / 剪辑 Editting / 电视节目 TV program / 新闻报道 News Report</description>
+    </item>
+    
+    <item>
+      <title>Articles 📃</title>
+      <link>https://ibnewnil.github.io/Articles%20%F0%9F%93%83/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ibnewnil.github.io/Articles%20%F0%9F%93%83/</guid>
+      <description>新闻稿 Press Releases / 推送 Push / 田野调查 Fieldwork / 书评 Book Review</description>
+    </item>
+    
+    <item>
+      <title>Others</title>
+      <link>https://ibnewnil.github.io/Others/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ibnewnil.github.io/Others/</guid>
+      <description>做衣服 / 字体 / 交通宣传片</description>
+    </item>
+    
+  </channel>
+</rss>

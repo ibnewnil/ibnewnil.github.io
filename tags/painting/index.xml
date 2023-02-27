@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Painting on Lin&#39;s Personal Museum</title>
+    <link>https://ibnewnil.github.io/tags/painting/</link>
+    <description>Recent content in Painting on Lin&#39;s Personal Museum</description>
+    <image>
+      <title>Lin&#39;s Personal Museum</title>
+      <url>https://ibnewnil.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ibnewnil.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://ibnewnil.github.io/tags/painting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pictures 🎨</title>
+      <link>https://ibnewnil.github.io/Pictures%20%F0%9F%8E%A8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ibnewnil.github.io/Pictures%20%F0%9F%8E%A8/</guid>
+      <description>海报 Posters / 摄影 Photography / 绘画 Paintings</description>
+    </item>
+    
+  </channel>
+</rss>
